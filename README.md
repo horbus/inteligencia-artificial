@@ -1,2 +1,3 @@
 # inteligencia-artificial
-Contenido del curso 2019-2
+
+Contenido del curso 2019 - II
